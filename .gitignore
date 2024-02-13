@@ -1,2 +1,3 @@
 # Ignore specific file
 example.txt
+/auth/userToken.js
